@@ -1,5 +1,6 @@
 # Project_On_Medallion-Architecture
 using Spark Dataframes and Python
+Platform used Databricks
 1 step read main_data file as raw file
 2 step use source file to explore Medallion Architecture nothing but Metallic Layers
 a)Bronze Layer (Raw Data)
